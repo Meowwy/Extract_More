@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FvkYjwwliL+yhcGloR6q8zM1PB8g7dfuhKcE9Gz8vqEniAT0NxGestIWAd145LY3MeGYEfnoBdED0V0m9VChTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kolec\\Extract_More\\UnzipMore\\UnzipMore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kolec\\.nuget\\packages\\sharpcompress\\0.28.3\\sharpcompress.0.28.3.nupkg.sha512",
+    "C:\\Users\\kolec\\.nuget\\packages\\sharpziplib\\1.3.2\\sharpziplib.1.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
