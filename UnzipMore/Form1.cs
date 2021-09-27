@@ -82,7 +82,7 @@ namespace UnzipMore
         {
             ProcessStartInfo psInfo = new ProcessStartInfo
             {
-                FileName = "https://github.com/sssvt-koleckar-pavel/Extract_More",
+                FileName = "https://github.com/Meowwy/Extract_More",
                 UseShellExecute = true
             };
             Process.Start(psInfo);
