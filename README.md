@@ -12,6 +12,10 @@ TRAILER: https://www.youtube.com/watch?v=9lWrVmKGacc
 ## Functionality
 The program searches throw all the things contained in root folder. If it founds a file of supported file format, it un-packs its content and leaves it in the same position in a tree structure. Finally, source file is deleted. 
 
+### Supported formats
+- zip
+- tar.gz
+
 ## Update notes
 - no notes
 
