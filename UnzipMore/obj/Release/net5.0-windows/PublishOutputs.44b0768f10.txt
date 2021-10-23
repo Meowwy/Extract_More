@@ -1,7 +1,0 @@
-C:\Users\kolec\Desktop\idk\UnzipMore.exe
-C:\Users\kolec\Desktop\idk\UnzipMore.dll
-C:\Users\kolec\Desktop\idk\UnzipMore.deps.json
-C:\Users\kolec\Desktop\idk\UnzipMore.runtimeconfig.json
-C:\Users\kolec\Desktop\idk\UnzipMore.pdb
-C:\Users\kolec\Desktop\idk\SharpCompress.dll
-C:\Users\kolec\Desktop\idk\ICSharpCode.SharpZipLib.dll
