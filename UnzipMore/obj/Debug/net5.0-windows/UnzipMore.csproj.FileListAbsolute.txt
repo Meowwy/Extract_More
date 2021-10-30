@@ -14,7 +14,6 @@ C:\Users\kolec\Extract_More\UnzipMore\bin\Debug\net5.0-windows\Mono.Cecil.Rocks.
 C:\Users\kolec\Extract_More\UnzipMore\bin\Debug\net5.0-windows\Mono.Cecil.dll
 C:\Users\kolec\Extract_More\UnzipMore\bin\Debug\net5.0-windows\SharpCompress.dll
 C:\Users\kolec\Extract_More\UnzipMore\bin\Debug\net5.0-windows\ICSharpCode.SharpZipLib.dll
-C:\Users\kolec\Extract_More\UnzipMore\obj\Debug\net5.0-windows\UnzipMore.csprojAssemblyReference.cache
 C:\Users\kolec\Extract_More\UnzipMore\obj\Debug\net5.0-windows\UnzipMore.Form1.resources
 C:\Users\kolec\Extract_More\UnzipMore\obj\Debug\net5.0-windows\UnzipMore.Properties.Resources.resources
 C:\Users\kolec\Extract_More\UnzipMore\obj\Debug\net5.0-windows\UnzipMore.csproj.GenerateResource.cache
