@@ -2,10 +2,10 @@
 
 ![App_withBackgroundAndFiles](https://user-images.githubusercontent.com/90327997/138566608-37798f32-fe9c-4f13-b985-709b66b0f10f.jpg)
 
-This simple app for Windows is designed to extract compressed files from all the subdirectories of the "root" directory selected by you.
+### This simple app for Windows is designed to extract compressed files from all the subdirectories of the "root" directory selected by you. ###
 The goal is to save your time in case you have a LOT of files compressed and want to work with them. 
 
-No matter what compression type you are facing or how many there are. 
+**No matter what compression type you are facing or how many there are.** 
 
 Get one for yourself, temporarily by sending mail to koleckar551@gmail.com
 
