@@ -122,12 +122,12 @@ namespace UnzipMore
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(33, 13);
             this.label1.TabIndex = 8;
-            this.label1.Text = "v. 1.1";
+            this.label1.Text = "v. 1.2";
             // 
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(250, 357);
+            this.linkLabel1.Location = new System.Drawing.Point(241, 358);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(132, 15);
             this.linkLabel1.TabIndex = 11;

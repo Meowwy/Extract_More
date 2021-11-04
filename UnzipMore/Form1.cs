@@ -52,8 +52,7 @@ namespace UnzipMore
             ExtractService exSer = new ExtractService();
             lbl_status.Text = "Searching files...";
             btn_cancel.Enabled = true;
-            Task.Run(() => exSer.Unzip(rootPath));
-            exSer.Untar(rootPath);
+            exSer.DivideWorkAsync(rootPath);
             btn_cancel.Enabled = false;
             lbl_status.Text = "DONE";
         }

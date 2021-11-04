@@ -26,3 +26,4 @@ C:\Users\kolec\Extract_More\UnzipMore\obj\Debug\net5.0-windows\UnzipMore.dll
 C:\Users\kolec\Extract_More\UnzipMore\obj\Debug\net5.0-windows\ref\UnzipMore.dll
 C:\Users\kolec\Extract_More\UnzipMore\obj\Debug\net5.0-windows\UnzipMore.pdb
 C:\Users\kolec\Extract_More\UnzipMore\obj\Debug\net5.0-windows\UnzipMore.genruntimeconfig.cache
+C:\Users\kolec\Extract_More\UnzipMore\obj\Debug\net5.0-windows\UnzipMore.csprojAssemblyReference.cache
