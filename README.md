@@ -5,7 +5,7 @@
 ### This simple app for Windows is designed to extract compressed files from all the subdirectories of the "root" directory selected by you. ###
 The goal is to save your time in case you have a LOT of files compressed and want to work with them. 
 
-**No matter what compression type you are facing or how many there are.** 
+**No matter what compression type you are facing or how many files there are.** 
 
 Get one for yourself, temporarily by sending mail to koleckar551@gmail.com
 
