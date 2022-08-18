@@ -10,7 +10,7 @@ The goal is to save your time in case you have a LOT of files compressed and wan
 Get one for yourself, temporarily by sending mail to koleckar551@gmail.com
 
 ## Functionality
-The program searches throw all the things contained thefolder you selected. If it founds a file of supported file format, it un-packs its content and leaves it in the same position in a tree structure. Finally, source files are deleted. 
+The program searches throw all the things contained in the folder you selected. If it founds a file of supported file format, it un-packs its content and leaves it in the same position in a tree structure. Finally, source files are deleted. 
 
 ### Supported formats
 - **.zip**
